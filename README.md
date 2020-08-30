@@ -12,9 +12,5 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 [![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://develop.spacemacs.org/)
 
 
-### My big passion: running!
-
-<iframe src='https://www.strava.com/athletes/39973540/latest-rides/fa5b24fb6707facb80ccd24b070b67008bfc09a9'></iframe>
-
 </div>
  
