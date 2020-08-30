@@ -1,6 +1,6 @@
 <div align="center">
   
-## Nikolas De Giorgis (bznein)
+# Nikolas De Giorgis (bznein)
 Software developer, tech entusiast, open source supporter, amateur photographer, runner.
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/nikolas-de-giorgis/)
@@ -11,6 +11,10 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 [![](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=MongoDB)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://develop.spacemacs.org/)
 
+## Things I did
 
+## Things I am doing (the important stuff is here)
+
+### Things I'd like to do
 </div>
  
