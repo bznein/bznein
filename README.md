@@ -10,7 +10,7 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 
 [![](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=MongoDB)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://develop.spacemacs.org/)
-
+</div>
 ## Things I did
 - Graduated from Universita' degli Studi di Genova, Italy
 - PhD in Computer Science
@@ -23,5 +23,5 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
   - [MongoDB Kubernetes Community Operator](https://github.com/mongodb/mongodb-kubernetes-operator)
 
 ### Things I'd like to do
-</div>
+
  
