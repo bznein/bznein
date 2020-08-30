@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+## **Nikolas De Giorgis (bznein)**
 
 I promise to update this (soon).
 </div>
