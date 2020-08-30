@@ -10,5 +10,9 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 
 [![](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=MongoDB)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://develop.spacemacs.org/)
+
+
+### My big passion: running!
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/39973540/activity-summary/fa5b24fb6707facb80ccd24b070b67008bfc09a9'></iframe>
 </div>
  
