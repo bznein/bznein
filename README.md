@@ -13,6 +13,6 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 
 
 ### My big passion: running!
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/39973540/activity-summary/fa5b24fb6707facb80ccd24b070b67008bfc09a9'></iframe>
+![](https://www.strava.com/athletes/39973540/activity-summary/fa5b24fb6707facb80ccd24b070b67008bfc09a9)
 </div>
  
