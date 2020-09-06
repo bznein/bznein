@@ -24,8 +24,10 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
   - [MongoDB Kubernetes Community Operator](https://github.com/mongodb/mongodb-kubernetes-operator)
   - [MongoDB Kubernetes Enterprise Operator](https://github.com/mongodb/mongodb-enterprise-kubernetes)
 
-- A very small Golang wrapper to [alerter](https://github.com/vjeantet/alerter) to send customized MacOs notifications
+- A very small Golang wrapper to [alerter](https://github.com/vjeantet/alerter) to send customized MacOs notifications: [here it is](https://github.com/bznein/notipher)
 - A little tool to make Github Notifications more useful to me, receiving them through MacOs notifications (using the above tool): [github_notification](https://github.com/bznein/github_notification)
+
+They are both at the very beginning and should hopefully improve in the future.
 
 ### Things I'd like to do
 
