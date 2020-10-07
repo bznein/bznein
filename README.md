@@ -30,5 +30,5 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 They are both at the very beginning and should hopefully improve in the future.
 
 ### Things I'd like to do
-- First think I'd like to do: fill this section!
+- First thing I'd like to do: fill this section!
  
