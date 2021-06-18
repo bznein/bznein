@@ -9,7 +9,7 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 [![](https://img.shields.io/badge/-bznein-black?logo=lichess&style=for-the-badge)](https://lichess.org/@/bznein)
 
 [![](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=MongoDB)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://develop.spacemacs.org/)
+[![](https://img.shields.io/badge/Emacs-27.1-black?logo=spacemacs&style=plastic)](https://github.com/hlissner/doom-emacs)
 </div>
 
 ## Things I did
