@@ -18,11 +18,12 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 - 1-year Postdoc at Istituto Italiano di Tecnologia, Genova
 - Packed everything and moved to Dublin, Ireland!
 - 1 year as a C++ Software Developer at [Miravex Limited](http://miravex.com/)
-
-## Things I am doing (the important stuff is here)
 - Software Engineer @[MongoDB](https://www.mongodb.com/)
   - [MongoDB Kubernetes Community Operator](https://github.com/mongodb/mongodb-kubernetes-operator)
   - [MongoDB Kubernetes Enterprise Operator](https://github.com/mongodb/mongodb-enterprise-kubernetes)
+
+## Things I am doing (the important stuff is here)
+- Site Reliabilty Engineer @Google
 
 - A very small Golang wrapper to [alerter](https://github.com/vjeantet/alerter) to send customized MacOs notifications: [here it is](https://github.com/bznein/notipher)
 - A little tool to make Github Notifications more useful to me, receiving them through MacOs notifications (using the above tool): [github_notification](https://github.com/bznein/github_notification)
