@@ -25,11 +25,4 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 ## Things I am doing (the important stuff is here)
 - Site Reliabilty Engineer @Google
 
-- A very small Golang wrapper to [alerter](https://github.com/vjeantet/alerter) to send customized MacOs notifications: [here it is](https://github.com/bznein/notipher)
-- A little tool to make Github Notifications more useful to me, receiving them through MacOs notifications (using the above tool): [github_notification](https://github.com/bznein/github_notification)
-
-They are both at the very beginning and should hopefully improve in the future.
-
-### Things I'd like to do
-- First thing I'd like to do: fill this section!
  
