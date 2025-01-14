@@ -25,5 +25,5 @@ Software developer, tech entusiast, open source supporter, amateur photographer,
 - Software Engineer @[Interchain](https://www.interchain.io)
 
 ## Things I am doing (the important stuff is here)
-Soon :tm:
+- Software Engineer @[BitBox](https://bitbox.swiss/)
  
